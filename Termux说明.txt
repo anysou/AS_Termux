@@ -17,6 +17,25 @@ https://github.com/termux
 
 在 Termux 0.75 里无法获取 返回结果。
 
+======== Termux:widget  插件：========
+
+termux_widget_0.11.apk 最低安卓版本 5.0  
+
+给应用程序添加命令快捷方式，并创建在主屏幕上 (可用来代替 Tasker)
+
+使用方法举例： ln -s ~/run.sh ~/.shortcuts/run.sh
+
+长按桌面 -》 添加工具 -》Termux:Widget 
+
+======== Termux:float 插件 ==============
+termux_float_0.13.apk  最低安卓版本 5.0  
+
+创建浮动窗口，长按可移动和调整大小。
+
+======== Termux: 播放音频插件 ==============
+播放音频（Termux 0.84以上才有效，可以播放wav,ogg）
+
+安装： pkg install play-audio   使用： play-audio pathfile 
 
 ======== Termux:api 插件：========
 
